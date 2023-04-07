@@ -1,1 +1,3 @@
-# zintpavowj-Zero_Trust_Score-based_Network_Level_PEP
+# Zero Trust Score-based Network Level Access Control
+
+# Policy Enforcement Point Implementation
